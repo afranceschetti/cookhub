@@ -1,0 +1,7 @@
+{
+  "name": "cookhub",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
